@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ServerSolution.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Client.cpp
+C:\Users\MishaPC\Desktop\Системка\ServerSolution\ServerSolution\Client.cpp(101,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\MishaPC\Desktop\Системка\ServerSolution\ServerSolution\Client.cpp(142,12): warning C4244: return: преобразование "INT_PTR" в "int", возможна потеря данных
+  ServerSolution.vcxproj -> C:\Users\MishaPC\Desktop\Системка\ServerSolution\x64\Debug\Client.exe
